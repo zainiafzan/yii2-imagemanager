@@ -1,0 +1,18 @@
+{
+    "name": "zainiafzan/yii2-imagemanager",
+    "description": "Yii2 Image Manager using imagine library",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","image","imagemanager"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zainiafzan",
+            "email": "zainiafzan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "zainiafzan\\imagemanager\\": ""
+        }
+    }
+}
